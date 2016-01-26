@@ -17,7 +17,7 @@
     "istanbul-harmony": "0",
     "koa": "0",
     "should": "3",
-    "mocha": "1",
+    "mocha": "2.4.1",
     "supertest": "0",
     "koa-etag": "1"
   },
